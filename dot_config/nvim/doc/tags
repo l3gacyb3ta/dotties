@@ -1,0 +1,26 @@
+doom	doom_nvim.norg	/* Table of Contents
+doom-intro	doom_nvim.norg	/* Introduction
+doom-daily-usage	doom_nvim.norg	/* Using Doom Nvim as your daily setup
+doom-moving-around	doom_nvim.norg	/  ** Moving around
+doom-configuration	doom_nvim.norg	/  ** Configuration
+doom-modules	doom_nvim.norg	/    *** Modules
+doom-tweaking-modules	doom_nvim.norg	/      **** Tweaking modules
+doom-custom-plugins	doom_nvim.norg	/    *** Custom plugins
+doom-lsp	doom_nvim.norg	/    *** Language Server Protocols
+doom-autocompletion	doom_nvim.norg	/  ** Autocompletion
+doom-colorscheme	doom_nvim.norg	/  ** Colorscheme
+doom-layout	doom_nvim.norg	/  ** Layout
+doom-explorer	doom_nvim.norg	/    *** File Explorer
+doom-buffer	doom_nvim.norg	/    *** Main Buffer
+doom-terminal	doom_nvim.norg	/    *** Terminal
+doom-minimap	doom_nvim.norg	/    *** Minimap
+doom-outline	doom_nvim.norg	/    *** Outline
+doom-commands	doom_nvim.norg	/  ** Commands
+doom-keybindings	doom_nvim.norg	/  ** Keybindings
+doom-hacking	doom_nvim.norg	/  ** Hacking Doom Nvim
+doom-issues	doom_nvim.norg	/* Known issues
+doom-faq	doom_nvim.norg	/* FAQ
+doom-faq-general	doom_nvim.norg	/  ** General
+doom-acknowledgements	doom_nvim.norg	/* Acknowledgements
+doom-contributing	doom_nvim.norg	/* Contributing
+doom-license	doom_nvim.norg	/* License

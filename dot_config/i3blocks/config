@@ -1,0 +1,46 @@
+[music]
+command=echo " 🎵 $(mpc current) "
+color=#E5B4E2
+interval=2
+
+[WEATHER]
+command=~/.config/i3blocks/weather/weather_info.sh
+interval=100
+color=#F9C096
+signal=2
+
+[Online]
+command=~/.config/i3blocks/online.sh
+interval=3
+
+[BATTERY]
+command=~/.config/i3blocks/battery/battery_info.sh
+color=#C6AAE8
+interval=3
+
+[CPU]
+full_text= 0.00% 
+command=~/.config/i3blocks/cpu/cpu_info.sh
+interval=repeat
+color=#A4B9EF
+
+[MEM]
+command=free -h | awk '/Mem:/ { printf(" 🐏 %5s/%s \n", $3, $2) }'
+interval=1
+color=#EBDDAA
+
+[SOUND_BURST]
+command=~/.config/i3blocks/sound/sound_burst.sh
+interval=once
+
+[SOUND]
+full_text= 🔇:  0% 
+command=~/.config/i3blocks/sound/sound_info.sh
+color=#F2CECF
+interval=1
+signal=1
+
+[TIME_DATE]
+command=date +" %a, %d %b - %H:%M  "
+color=#E5B4E2
+interval=10

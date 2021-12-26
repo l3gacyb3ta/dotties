@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head><title>Tsacdop Feed Groups</title></head>
+    <body>
+        
+            <outline type="rss" text="Flash Forward" title="Flash Forward" xmlUrl="https://anchor.fm/s/48173b74/podcast/rss"/>
+            <outline type="rss" text="Open World" title="Open World" xmlUrl="https://feeds.megaphone.fm/openworld"/>
+            <outline type="rss" text="Reboot (private feed for l3gacy.b3ta@disroot.org)" title="Reboot (private feed for l3gacy.b3ta@disroot.org)" xmlUrl="https://api.substack.com/feed/podcast/37465/private/ec733ac4-7c5a-4de3-abdc-352d2dbce3e8.rss"/>
+            <outline type="rss" text="The Flashpoint (private feed for l3gacy.b3ta@disroot.org)" title="The Flashpoint (private feed for l3gacy.b3ta@disroot.org)" xmlUrl="https://api.substack.com/feed/podcast/1164/private/134cfc6a-0a33-4a64-b342-3d429f6c3f51.rss"/>
+            <outline type="rss" text="The Indicator from Planet Money" title="The Indicator from Planet Money" xmlUrl="https://feeds.npr.org/510325/podcast.xml"/>
+            <outline type="rss" text="The Stack Podcast" title="The Stack Podcast" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:900166441/sounds.rss"/>
+            <outline type="rss" text="Factually! with Adam Conover" title="Factually! with Adam Conover" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/f07204d5-498c-426c-945f-aaa4017d3648/190563a4-9cc7-4ada-bdbd-aaa4017d3651/podcast.rss"/>
+            <outline type="rss" text="wellRED podcast" title="wellRED podcast" xmlUrl="https://wellredpodcast.libsyn.com/rss"/>
+            <outline type="rss" text="Dead Pilots Society" title="Dead Pilots Society" xmlUrl="https://feeds.simplecast.com/FxPyOlup"/>
+            <outline type="rss" text="SH!TPOST (private feed for l3gacy.b3ta@disroot.org)" title="SH!TPOST (private feed for l3gacy.b3ta@disroot.org)" xmlUrl="https://api.substack.com/feed/podcast/7763/private/82430516-a119-44d2-8a7a-7e1eb27969f5.rss"/>
+            <outline type="rss" text="Within the Wires" title="Within the Wires" xmlUrl="http://feeds.nightvalepresents.com/withinthewires"/>
+            <outline type="rss" text="Elementarfragen" title="Elementarfragen" xmlUrl="https://feeds.viertausendhertz.de/elementarfragen"/>
+            <outline type="rss" text="Oh No, Ross and Carrie" title="Oh No, Ross and Carrie" xmlUrl="https://feeds.simplecast.com/ftB6Gihc"/>
+            <outline type="rss" text="Welcome to Night Vale" title="Welcome to Night Vale" xmlUrl="http://feeds.nightvalepresents.com/welcometonightvalepodcast"/>
+            <outline type="rss" text="Sharon Says So" title="Sharon Says So" xmlUrl="https://sharonsaysso.libsyn.com/rss"/>
+            <outline type="rss" text="Revisionist History" title="Revisionist History" xmlUrl="https://feeds.megaphone.fm/revisionisthistory"/>
+            <outline type="rss" text="The Orpheus Show" title="The Orpheus Show" xmlUrl="https://feeds.transistor.fm/the-orpheus-show"/>
+            <outline type="rss" text="Story Break" title="Story Break" xmlUrl="https://feeds.feedburner.com/rocketjump/story-break"/>
+            <outline type="rss" text="Maximum Film!" title="Maximum Film!" xmlUrl="https://feeds.simplecast.com/3vVrWdfk"/>
+            <outline type="rss" text="My Brother, My Brother And Me" title="My Brother, My Brother And Me" xmlUrl="https://feeds.simplecast.com/wjQvYtdl"/>
+            <outline type="rss" text="Planet Money" title="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml"/>
+            <outline type="rss" text="Command Line Heroes" title="Command Line Heroes" xmlUrl="https://feeds.pacific-content.com/commandlineheroes"/><outline type="rss" text="Reply All" title="Reply All" xmlUrl="https://feeds.megaphone.fm/replyall"/><outline type="rss" text="The Adventure Zone" title="The Adventure Zone" xmlUrl="https://feeds.simplecast.com/cYQVc__c"/><outline type="rss" text="Day X" title="Day X" xmlUrl="https://feeds.simplecast.com/YOHn4x_S"/><outline type="rss" text="Bellwether" title="Bellwether" xmlUrl="https://thisisbellwether.libsyn.com/rss"/>
+
+
+
+    
+    </body></opml>

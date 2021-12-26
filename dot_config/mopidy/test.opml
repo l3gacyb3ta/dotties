@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml>
+  <body>
+    <outline text="TED Radio Hour" type="rss" xmlUrl="http://www.npr.org/rss/podcast.php?id=510298" />
+    <outline text="BBC Radio Podcasts" type="include" url="http://www.bbc.co.uk/podcasts.opml" />
+  </body>
+</opml>
